@@ -25,4 +25,4 @@ python face_verify.py
 
 ## Acknowledgements
 This project utilizes code from the [match_face repository](https://github.com/pike-msonda/match_face).
-This project was carried out as an internship project for the internship requirement at Necmettin Erbakan University
+This project was carried out as part of the mandotory industrial training requirement (Intenrship) required by Necmettin Erbakan University
